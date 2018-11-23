@@ -75,7 +75,6 @@ while run:
 
         elif event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
             #
-            # FINNE DOKUMENTASJON PÅ HVORDAN MAN FIKSER LEFTMOUSEBUTTON LISTENER.
             # FIKSE, AT NABO NULL ÅPNER NY NABO NULL, ON AND ON.
             # FIKSE START OG SLUTT SKJERM.
             # KOBLE OPP MOT AI
